@@ -1,0 +1,29 @@
+{
+  "name": "gulp-furtivework",
+  "version": "0.0.1",
+  "description": "Furtivework gulp wrapper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/furtivecss/gulp-furtivework.git"
+  },
+  "keywords": [
+    "furtive",
+    "furtivework",
+    "gulp",
+    "rework"
+  ],
+  "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/furtivecss/gulp-furtivework/issues"
+  },
+  "homepage": "https://github.com/furtivecss/gulp-furtivework",
+  "dependencies": {
+    "furtivework": "0.0.1",
+    "through2": "^0.6.3"
+  }
+}
